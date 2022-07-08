@@ -1,5 +1,8 @@
 # forms
 
+Simple forms app from Maximilian Schwarzmüller's vueJS course. 
+For testing and learning.
+
 ## Project setup
 ```
 npm install
